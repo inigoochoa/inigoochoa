@@ -1,4 +1,4 @@
-# Iñigo Ochoa
+# Íñigo Ochoa, CFA
 
 **CFA Charterholder · Ciencia de datos en la Universidad Complutense de Madrid · Madrid, España**
 
