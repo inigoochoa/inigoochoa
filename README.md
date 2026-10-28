@@ -1,31 +1,32 @@
-# Íñigo Ochoa, CFA
+# Iñigo Ochoa, CFA
 
-**CFA Charterholder · Ciencia de datos en la Universidad Complutense de Madrid · Madrid, España**
+**CFA Charterholder · MSc in Data Science, Universidad Complutense de Madrid · Madrid, Spain**
 
-Estoy orientando mi trayectoria de finanzas hacia la ciencia de datos, con foco en el sector financiero y fintech. Mis proyectos exploran cómo aplicar machine learning al análisis financiero y a las decisiones de inversión.
+I am moving from finance into data science, with a focus on financial services and fintech. My projects explore how machine learning and data analysis can support financial and business decisions.
 
-## Proyectos destacados
+## Featured projects
 
-### [Regímenes de mercado y asignación táctica de activos](https://github.com/inigoochoa/tfm-inigo-ochoa-UCM)
+### [Market regimes and tactical asset allocation](https://github.com/inigoochoa/tfm-inigo-ochoa-UCM)
 
-Mi trabajo de fin de máster en la UCM explora la detección de regímenes de mercado, la predicción de retornos de factores y la construcción de carteras de renta variable.
+My master's thesis at UCM explores market regime detection, factor return prediction and equity portfolio construction.
 
-- Métodos: clustering, Random Forest, SHAP y evaluación walk-forward.
-- Implementación: un pipeline en Python y una API con FastAPI.
-- Hallazgo: los resultados documentados muestran capacidad predictiva limitada en la mayoría de las combinaciones de factor y horizonte; el régimen de mercado no aporta señal incremental a la capa de predicción de factores.
+- Methods: clustering, Random Forest, SHAP and walk-forward evaluation.
+- Implementation: a Python pipeline and a FastAPI service.
+- Finding: the documented results show limited predictive power for most factor-horizon combinations; market regimes add no incremental signal to the factor prediction layer.
 
-[Ver el proyecto y sus resultados →](https://github.com/inigoochoa/tfm-inigo-ochoa-UCM#resultados-principales)
+[See the project and results →](https://github.com/inigoochoa/tfm-inigo-ochoa-UCM#resultados-principales)
 
-### [Pump It Up — Clasificación del estado de bombas de agua](https://github.com/inigoochoa/pump-it-up-competition)
+### [Olist — E-commerce marketplace analytics](https://github.com/inigoochoa/olist-ecommerce-analytics)
 
-Proyecto de clasificación multiclase para la competición de DrivenData que combina preparación de datos, ingeniería de variables y un ensemble de modelos.
+End-to-end analysis of ~100,000 orders from a Brazilian marketplace, from data modelling to recommendations for management.
 
-- Modelos: Random Forest, LightGBM y XGBoost.
-- Metodología: validación cruzada estratificada y seguimiento de experimentos con MLflow.
-- Accuracy reportada en la competición: **81,86 %**.
+- Data: an analytical layer in BigQuery (raw → staging → analytics) with a dimensional model and data quality checks.
+- Analysis: keeping the delivery promise matters more to customer satisfaction than delivery speed. For the same delivery time, late orders score 1.0–1.8 points lower.
+- Deliverables: a two-page Power BI dashboard and four business recommendations.
 
-[Ver la metodología →](https://github.com/inigoochoa/pump-it-up-competition)
+[See the key findings →](https://github.com/inigoochoa/olist-ecommerce-analytics#key-findings)
 
+<<<<<<< HEAD
 ### [Comprehensive NumPy — curso interactivo de NumPy](https://github.com/inigoochoa/comprehensive-numpy)
 
 Curso gratuito y open-source de NumPy inspirado en los cursos interactivos de StrataScratch: notebooks de Jupyter como fuente de contenido, más una web que ejecuta NumPy real en el navegador (vía Pyodide) con corrección automática al instante, sin necesidad de backend.
@@ -36,11 +37,26 @@ Curso gratuito y open-source de NumPy inspirado en los cursos interactivos de St
 [Pruébalo en vivo →](https://numpy.inigoochoa.com)
 
 ## Herramientas utilizadas en estos proyectos
+=======
+### [Pump It Up — Water pump status classification](https://github.com/inigoochoa/pump-it-up-competition)
+>>>>>>> f0ff92bcdbca6c6bedee4a7b1c52a607c077381d
 
-Python · pandas · NumPy · scikit-learn · LightGBM · XGBoost · SHAP · MLflow · FastAPI
+Multiclass classification project for the DrivenData competition, combining data preparation, feature engineering and a model ensemble.
 
-## Objetivo profesional
+- Models: Random Forest, LightGBM and XGBoost.
+- Methodology: stratified cross-validation and experiment tracking with MLflow.
+- Competition accuracy: **81.86%**.
 
-Busco oportunidades como Data Scientist en el sector financiero y fintech, donde pueda combinar conocimiento financiero y evaluación rigurosa de modelos para contribuir a mejores decisiones.
+[See the methodology →](https://github.com/inigoochoa/pump-it-up-competition)
 
-[Contacto en LinkedIn](https://www.linkedin.com/in/inigo-ochoa-gil/)
+## Tools used in these projects
+
+**Machine learning:** Python · pandas · NumPy · scikit-learn · LightGBM · XGBoost · SHAP · MLflow · FastAPI
+
+**Data & BI:** SQL · BigQuery · Power BI
+
+## Career goal
+
+I am looking for Data Scientist roles in financial services and fintech, where I can combine financial expertise and rigorous model evaluation to support better decisions.
+
+[Connect on LinkedIn](https://www.linkedin.com/in/inigo-ochoa-gil/)
