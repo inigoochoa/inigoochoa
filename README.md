@@ -26,6 +26,15 @@ Proyecto de clasificación multiclase para la competición de DrivenData que com
 
 [Ver la metodología →](https://github.com/inigoochoa/pump-it-up-competition)
 
+### [Comprehensive NumPy — curso interactivo de NumPy](https://github.com/inigoochoa/comprehensive-numpy)
+
+Curso gratuito y open-source de NumPy inspirado en los cursos interactivos de StrataScratch: notebooks de Jupyter como fuente de contenido, más una web que ejecuta NumPy real en el navegador (vía Pyodide) con corrección automática al instante, sin necesidad de backend.
+
+- Contenido: 6 módulos, 33 lecciones, 58 ejercicios con feedback inmediato.
+- Stack: Python/nbformat para generar los notebooks, Astro + React + Pyodide para la web.
+
+[Pruébalo en vivo →](https://numpy.inigoochoa.com)
+
 ## Herramientas utilizadas en estos proyectos
 
 Python · pandas · NumPy · scikit-learn · LightGBM · XGBoost · SHAP · MLflow · FastAPI
