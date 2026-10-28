@@ -26,20 +26,7 @@ End-to-end analysis of ~100,000 orders from a Brazilian marketplace, from data m
 
 [See the key findings →](https://github.com/inigoochoa/olist-ecommerce-analytics#key-findings)
 
-<<<<<<< HEAD
-### [Comprehensive NumPy — curso interactivo de NumPy](https://github.com/inigoochoa/comprehensive-numpy)
-
-Curso gratuito y open-source de NumPy inspirado en los cursos interactivos de StrataScratch: notebooks de Jupyter como fuente de contenido, más una web que ejecuta NumPy real en el navegador (vía Pyodide) con corrección automática al instante, sin necesidad de backend.
-
-- Contenido: 6 módulos, 33 lecciones, 58 ejercicios con feedback inmediato.
-- Stack: Python/nbformat para generar los notebooks, Astro + React + Pyodide para la web.
-
-[Pruébalo en vivo →](https://numpy.inigoochoa.com)
-
-## Herramientas utilizadas en estos proyectos
-=======
 ### [Pump It Up — Water pump status classification](https://github.com/inigoochoa/pump-it-up-competition)
->>>>>>> f0ff92bcdbca6c6bedee4a7b1c52a607c077381d
 
 Multiclass classification project for the DrivenData competition, combining data preparation, feature engineering and a model ensemble.
 
@@ -48,6 +35,15 @@ Multiclass classification project for the DrivenData competition, combining data
 - Competition accuracy: **81.86%**.
 
 [See the methodology →](https://github.com/inigoochoa/pump-it-up-competition)
+
+### [Comprehensive NumPy — an interactive NumPy course](https://github.com/inigoochoa/comprehensive-numpy)
+
+Free, open-source NumPy course inspired by StrataScratch's interactive courses: Jupyter notebooks as the content source, plus a website that runs real NumPy in the browser (via Pyodide) with instant, automatic feedback — no backend required.
+
+- Content: 6 modules, 33 lessons, 58 exercises with immediate feedback.
+- Stack: Python/nbformat to generate the notebooks, Astro + React + Pyodide for the website.
+
+[Try it live →](https://numpy.inigoochoa.com)
 
 ## Tools used in these projects
 
