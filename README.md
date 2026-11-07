@@ -16,6 +16,7 @@ My master's thesis at UCM (3rd prize in the scholarship competition): a two-laye
 
 [See the project and results →](https://github.com/inigoochoa/tfm-inigo-ochoa-UCM#main-results)
 
+
 [![Olist E-commerce Analytics](assets/olist-banner.png)](https://github.com/inigoochoa/olist-ecommerce-analytics)
 
 End-to-end analysis of ~100,000 orders from a Brazilian marketplace, from data modelling to recommendations for management.
@@ -26,6 +27,7 @@ End-to-end analysis of ~100,000 orders from a Brazilian marketplace, from data m
 
 [See the key findings →](https://github.com/inigoochoa/olist-ecommerce-analytics#key-findings)
 
+
 [![Pump It Up — water pump status classification](assets/pump-it-up-banner.png)](https://github.com/inigoochoa/pump-it-up-competition)
 
 Multiclass classification project for the DrivenData competition, combining data preparation, leakage-free feature engineering and a model ensemble.
@@ -35,6 +37,7 @@ Multiclass classification project for the DrivenData competition, combining data
 - Result: **82.03%** leaderboard accuracy (top 12% of 20,171), with 81.53% ± 0.36% in cross-validation.
 
 [See the methodology →](https://github.com/inigoochoa/pump-it-up-competition)
+
 
 [![Comprehensive NumPy — an interactive NumPy course](assets/comprehensive-numpy-banner.png)](https://github.com/inigoochoa/comprehensive-numpy)
 
