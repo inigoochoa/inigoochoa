@@ -17,6 +17,12 @@ My master's thesis at UCM (3rd prize in the scholarship competition): a two-laye
 [See the project and results →](https://github.com/inigoochoa/tfm-inigo-ochoa-UCM#main-results)
 
 
+
+
+
+
+
+
 [![Olist E-commerce Analytics](assets/olist-banner.png)](https://github.com/inigoochoa/olist-ecommerce-analytics)
 
 End-to-end analysis of ~100,000 orders from a Brazilian marketplace, from data modelling to recommendations for management.
